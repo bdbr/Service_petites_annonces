@@ -1,0 +1,9 @@
+Groupe Z
+Membre du binome:
+-Binta DIABIRA
+-Liang GUAN
+
+-Compilation: javac *.java
+-Execution du serveur: java Serveur
+-Execution du Client: java client
+		      ou java client [addresse IP] [PORT]
